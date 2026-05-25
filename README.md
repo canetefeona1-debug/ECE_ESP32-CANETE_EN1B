@@ -1,17 +1,16 @@
-# Laurenze David T. Fronda
+# Canete, Feona Mae I.
 
 ## 🚀 About Me
-I am Laurenze who enjoys electronics, Arduino projects, PCB design,  programming in C++, and creating simple design.
+I am Feona who enjoys electronics, Arduino projects, PCB design,  programming in C++, and creating simple design.
 
 ---
 
 ## 📍 Location
-Kalayaan Village, San Manuel
+Wescom Road, San Pedro
 
 ---
 
 ## 🎯 Hobbies
-- 🥊 Boxing
 - ✈️ Travel
 - 💻 Coding
 - 🔌 Electronics Projects
@@ -45,17 +44,17 @@ Created PCB layouts using EasyEDA.
 ---
 
 ## 🍜 Favorite Food
-- Adobo
+- Egg
 - Fried Chicken
 
 ---
 
 ## 🔮 future  Goals 
-- create my own name and design.
+- Create my own name and design.
 
 ## 📫 Contact
 - GitHub: Laurenzefronda-star
-- frondafamily002@gmail.com
+- canetefeona1@gmail.com
 
 ---
 
