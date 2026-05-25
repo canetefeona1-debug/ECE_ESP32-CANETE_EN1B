@@ -53,7 +53,7 @@ Created PCB layouts using EasyEDA.
 - Create my own name and design.
 
 ## 📫 Contact
-- GitHub: Laurenzefronda-star
+- GitHub: canetefeona1-debug
 - canetefeona1@gmail.com
 
 ---
