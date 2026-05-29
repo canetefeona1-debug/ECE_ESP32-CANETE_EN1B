@@ -49,7 +49,7 @@ Created PCB layouts using EasyEDA.
 
 ---
 
-## 🔮 future  Goals 
+## 🔮 Future  Goals 
 - Create my own name and design.
 
 ## 📫 Contact
