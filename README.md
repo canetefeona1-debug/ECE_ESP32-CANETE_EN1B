@@ -1,61 +1,39 @@
-# Canete, Feona Mae I.
+ECE_ESP32_PCB_Cañete_EN1B
 
-## 🚀 About Me
-I am Feona who enjoys electronics, Arduino projects, PCB design,  programming in C++, and creating simple design.
+Project Description
 
----
+This project is an ESP32-based Printed Circuit Board (PCB) developed for Electronics Engineering applications. The design utilizes the ESP32 microcontroller to support wireless communication, embedded systems development, and Internet of Things (IoT) projects through a compact and efficient PCB layout.
 
-## 📍 Location
-Hartman Wescom Road, Barangay San Pedro, Puerto Princesa City
+Features
 
----
+- ESP32 microcontroller integration
+- Wi-Fi and Bluetooth connectivity
+- Compact and organized PCB design
+- Supports sensor and module interfacing
+- Reliable power distribution
+- Suitable for IoT and automation applications
+- Easy testing and troubleshooting
 
-## 🎯 Hobbies
-- ✈️ Travel
-- 💻 
-- 🔌 Exploring Electronics Projects/activity
-- 💡 Schematic diagram 
+Components Used
 
+- ESP32 Development Board
+- Resistors
+- Capacitors
+- LEDs
+- Push Buttons
+- Header Pins
+- Voltage Regulator
+- PCB Board
 
----
+Software Used
 
-## 💻 Skills
+- EasyEDA
+- GitHub
 
-| Skill | Level |
-|--------|--------|
-| C++ | Beginner |
-| Arduino | Beginner |
-| PCB Design | Beginner |
-|schematic design|Beginner|
+Author Name
 
----
+Feona Mae I. Cañete
 
-## 📂 Projects
-### 🔹 Arduino LED Blink
-Simple Arduino LED blinking project using C++.
-### 🔹 EasyEDA schematic 
-ESP32 Expansion board
+Course & Section
 
-
-### 🔹 PCB Design Practice
-Created PCB layouts using EasyEDA.
-,Create Schematic using EasyEDA.
-
----
-
-## 🍜 Favorite Food
-- Egg
-- Fried Chicken
-
----
-
-## 🔮 Future  Goals 
-- Create my own name and design.
-
-## 📫 Contact
-- GitHub: canetefeona1-debug
-- canetefeona1@gmail.com
-
----
-
-⭐ Thanks for visiting my portfolio!
+Electronics Engineering / EN1B
