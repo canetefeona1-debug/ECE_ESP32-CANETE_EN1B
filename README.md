@@ -6,14 +6,14 @@ I am Feona who enjoys electronics, Arduino projects, PCB design,  programming in
 ---
 
 ## 📍 Location
-Wescom Road, San Pedro
+Hartman Wescom Road, Barangay San Pedro, Puerto Princesa City
 
 ---
 
 ## 🎯 Hobbies
 - ✈️ Travel
-- 💻 Coding
-- 🔌 Electronics Projects
+- 💻 
+- 🔌 Exploring Electronics Projects/activity
 - 💡 Schematic diagram 
 
 
